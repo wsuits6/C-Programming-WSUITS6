@@ -28,7 +28,7 @@ int main() {
     int i = 0;
 
     while (i < 5) {
-        printf("%d \n");
+        printf("%d \n" );
         i++; //increasing i by one
     }
 
