@@ -28,11 +28,11 @@ int main() {
     int i = 0;
 
     while (i < 5) {
-        printf("I is here \n");
+        printf("%d \n");
         i++; //increasing i by one
     }
 
-    
+
     return 0;
 
     
