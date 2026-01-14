@@ -20,8 +20,21 @@ int main() {
     if (a > 2) {
         printf("A is bigger than 2 \n");
     } else {
-        printf("SHiit this is FUCKED UP");
+        printf("SHiit this is FUCKED UP \n");
     }
+
+    //now let me test a LOOP yeh yeh hope i dont fuckup my system
+
+    int i = 0;
+
+    while (i < 5) {
+        printf("I is here \n");
+        i++; //increasing i by one
+    }
+
+    
     return 0;
+
+    
 }
 
