@@ -11,7 +11,12 @@ int main() {
     float gpa = 4.9;
     char name[] = "Alhassan Osman Wunpini";
 
-    
+    // let's Do some maths 
+    int a = 5;
+    int b = 7;
+
+    int c = a + b;
+    printf(c);
     return 0;
 }
 
