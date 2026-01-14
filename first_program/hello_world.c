@@ -17,6 +17,11 @@ int main() {
 
     int c = a + b;
     
+    if (a > 2) {
+        printf("A is bigger than 2 \n");
+    } else {
+        printf("SHiit this is FUCKED UP");
+    }
     return 0;
 }
 
