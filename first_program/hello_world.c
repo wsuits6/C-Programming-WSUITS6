@@ -16,7 +16,7 @@ int main() {
     int b = 7;
 
     int c = a + b;
-    printf(c);
+    
     return 0;
 }
 
