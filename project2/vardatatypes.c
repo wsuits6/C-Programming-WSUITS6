@@ -7,7 +7,7 @@ int main() {
 
     //print out varibales
     printf("Age: %d\n", Age);
-    printf("Grade: %d\n", Grade);
+    printf("Grade: %c\n", Grade);
 
     return 0;
 }
